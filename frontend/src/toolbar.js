@@ -1,7 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCommentDots, faVolumeUp, faCogs } from '@fortawesome/free-solid-svg-icons';
-import { DraggableNode } from './draggableNode';
 
 export const PipelineToolbar = () => {
     return (
