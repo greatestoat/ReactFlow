@@ -43,8 +43,7 @@ This project is a canvas-based bot builder application that allows users to desi
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/yourusername/bot-builder.git  
-   cd bot-builder  
+   https://github.com/greatestoat/ReactFlow.git    
 Install Dependencies:
 
 bash
@@ -97,8 +96,6 @@ Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
 
-
-Let me know if you need further modifications!
 
 
 
